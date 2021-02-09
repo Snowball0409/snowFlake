@@ -1,0 +1,29 @@
+//Item
+item.blizzard_ingot.name=Blizzard Ingot
+
+//container
+container.ice_furnace=Ice Furnace
+
+//Tool
+item.snowball_wand.name=Snowball Wand
+item.snow_flake_wand.name=SnowFlake Wand
+
+
+//Block
+tile.freezing_plank.name=Freezing Plank
+tile.ice_furnace.name=Ice Furnace
+
+//Armor
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+
+//Tabs
+itemGroup.sf_tab=Snow Flake
+
+//Food
+item.evil_apple.name=Evil Apple
+
+//Plank
+tile.plank_wither.name=Wither Plank

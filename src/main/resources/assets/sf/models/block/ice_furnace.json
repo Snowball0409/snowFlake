@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "sf:blocks/ice_furnace_side",
+        "up": "sf:blocks/ice_furnace_side",
+        "down": "sf:blocks/ice_furnace_side",
+        "north": "sf:blocks/ice_furnace_front_off",
+        "east": "sf:blocks/ice_furnace_side",
+        "south": "sf:blocks/ice_furnace_side",
+        "west": "sf:blocks/ice_furnace_side"
+    }
+}

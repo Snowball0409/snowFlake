@@ -1,0 +1,8 @@
+{
+	"entity.centaur.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.centaur.ambient",
+		"sounds": [{ "name": "hm:entity"}]
+	}
+}
